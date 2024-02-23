@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I would like change the style of the menu. I feel like it's plain. I would put some illustrative images in the corner of the menu. For example an illustarative image of one of the two drinks we offer. I would Also want some text styles to be in there. Instead of the span underline I would like to make it dotted.

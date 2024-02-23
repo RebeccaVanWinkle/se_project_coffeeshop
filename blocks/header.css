@@ -31,14 +31,14 @@
 }
 .header__description {
   max-width: 683px;
-  font-family: "Noto Serif", "New Times Roman", "serif";
+  font-family: "Noto Serif", "New Times Roman", serif;
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
 }
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif", "New Times Roman", "serif";
+  font-family: "Noto Serif", "New Times Roman", serif;
   font-style: italic;
   font-size: 60px;
   line-height: 72px;
@@ -47,6 +47,7 @@
 .header__footer {
   display: flex;
   justify-content: space-between;
+  flex-direction: row;
   margin-top: auto;
   font-weight: 500;
   line-height: 20px;
@@ -54,4 +55,5 @@
 }
 .header__paragraph {
   margin: 0;
+  margin-top: auto;
 }
